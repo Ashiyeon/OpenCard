@@ -59,12 +59,12 @@ body{
 
 .left.open .back{
     z-index: 10;
-    transition: all 0.7s ease-in-out;
+    transition: all 0.8s ease-in-out;
 }
 
 .left.open, .right.open{
     transform: rotateY(0deg);
-    transition: all 0.7s ease-in-out;
+    transition: all 0.8s ease-in-out;
 }
 
 .left{
