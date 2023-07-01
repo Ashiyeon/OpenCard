@@ -46,14 +46,14 @@ body{
 .front{
     transform: rotateY(180deg);
     z-index: 3;
-    background-image: url("/imgs/front-bg.jpg");
+    background-image: url("../imgs/front-bg.jpg");
     background-size: cover;
 }
 
 .back{
     z-index: 2;
     backface-visibility: hidden;
-    background-image: url("/imgs/content-bg.jpg");
+    background-image: url("../imgs/content-bg.jpg");
     background-size: cover;
 }
 
