@@ -1,0 +1,22 @@
+.word{
+    border: 1px solid #999;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+#tabs{
+    margin-top: 50px;
+}
+
+
+#Banner{
+    width: 80%;
+    height: 700px;
+    margin: 50px auto;
+    overflow:hidden
+}
+
+.item img{
+    max-width: 100%;
+}
